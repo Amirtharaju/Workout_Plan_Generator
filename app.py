@@ -95,19 +95,12 @@ REQUIREMENTS
 ------------
 
 1. Create exactly {days} workout days.
-
 2. Respect the user's fitness goal.
-
 3. Respect the user's experience level.
-
 4. ONLY use equipment available to the user.
-
 5. Do not recommend equipment that the user does not have.
-
 6. Respect the user's stated limitations.
-
 7. If the user has provided an injury, pain, or physical limitation:
-
    - Avoid exercises that obviously conflict with the limitation.
    - Do not diagnose the condition.
    - Do not claim that an exercise is medically safe.
@@ -115,24 +108,17 @@ REQUIREMENTS
    - Include a short disclaimer recommending consultation
      with an appropriately qualified healthcare professional
      when appropriate.
-
 8. Make the plan realistic for the number of available days.
-
 9. Include recovery/rest days when appropriate.
-
 10. Do not make medical diagnoses or medical claims.
-
 11. Keep the plan appropriate for the user's experience level.
-
 12. The workout should be practical enough for a real person
     to follow.
-
 
 OUTPUT FORMAT
 -------------
 
 Return the answer using Markdown.
-
 Start with:
 
 # Weekly Workout Plan
